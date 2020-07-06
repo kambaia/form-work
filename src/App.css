@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+.reader{
+  width: 100%;
+  background-color: #ef5307;
+  padding-top: 20PX;
+  padding-bottom: 20PX;
+}
+.reader h3{
+  color: #fff;
+  text-align: center;
+}
